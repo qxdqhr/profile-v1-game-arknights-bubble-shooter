@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128">
+  <rect width="128" height="128" rx="24" fill="#1a0000"/>
+  <circle cx="64" cy="64" r="36" fill="#c62828"/>
+  <circle cx="52" cy="52" r="10" fill="#ffd54f" opacity="0.5"/>
+  <text x="64" y="72" text-anchor="middle" font-size="28" fill="#ffd54f" font-family="sans-serif">年</text>
+</svg>
